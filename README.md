@@ -1,1 +1,2 @@
 # conjugated_allatom_ff
+完整数据见/personal/conjugated_allatom_ffdata
